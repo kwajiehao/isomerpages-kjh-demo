@@ -1,0 +1,47 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Contact Us
+  url: /contact-us/
+- title: Jiehao Life Story
+  url: /jiehao-life-story/
+- title: Jiehao Education
+  url: /jiehao-education/
+- title: Jiehao Career
+  url: /jiehao-career/
+- title: Jiehao Classes College
+  url: /jiehao-classes-college/japanese/
+  sub-links:
+  - title: Japanese
+    url: /jiehao-classes-college/japanese/
+  - title: Korean
+    url: /jiehao-classes-college/korean/
+  - title: Apma
+    url: /jiehao-classes-college/apma/
+  - title: Data Science
+    url: /jiehao-classes-college/data-science/
+- title: Jiehao Classes Masters
+  url: /jiehao-classes-masters/algorithms/
+  sub-links:
+  - title: Algorithms
+    url: /jiehao-classes-masters/algorithms/
+  - title: Bayesian Statistics
+    url: /jiehao-classes-masters/bayesian-statistics/
+- title: Photos
+  url: /photos/
+  sub-links:
+  - title: All
+    url: /photos/
+  - title: Baby
+    url: /photos/baby/
+  - title: Primary School
+    url: /photos/primary-school/
+  - title: Secondary School
+    url: /photos/secondary-school/
+  - title: Jc
+    url: /photos/jc/
+  - title: College
+    url: /photos/college/
